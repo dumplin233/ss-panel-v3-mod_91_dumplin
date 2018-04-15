@@ -19,7 +19,7 @@
 										<a href="/ios.mp4" target="_blank"><img src="/video.jpg" width=200></a>
 										<p>
 											<h5>第一步：下载安装</h5>
-											<br>App Store登陆帐号:<code>xiaofeiji.net@gmail.com</code>密码：<code>Xfj-2018</code>，查看已购项目，下载并打开小火箭Shadowrocket。
+											<br>App Store登陆帐号:<code>xxxx@gmail.com</code>密码：<code>xxxx</code>，查看已购项目，下载并打开小火箭Shadowrocket。
 										</p>
 										<p>
 											<h5>第二步：选择模式</h5>
