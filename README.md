@@ -10,6 +10,10 @@ yum install screen wget -y &&screen -S ss
 wget -N --no-check-certificate https://raw.githubusercontent.com/dumplin233/ss-panel-v3-mod_91_dumplin/master/ss-panel-v3-mod.sh && chmod +x ss-panel-v3-mod.sh && bash ss-panel-v3-mod.sh
 
 ```
+在原版魔改的基础，增加了一些实用的功能的基础上，
+ - 支付接口改为金沙江支付宝通用接口
+ - 支持商品的在线支付
+
 
 在原版魔改的基础，增加了一些实用的功能。
 
